@@ -8,7 +8,7 @@ View-aligned mesh slicing for Unity.
 
 ## Sources
 
-- GPU Gems Chapter 39. Volume Rendering Techniques - http://http.developer.nvidia.com/GPUGems/gpugems_ch39.html
+- GPU Gems Chapter 39. Volume Rendering Techniques - https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch39.html
 
 - Mesh Slicing | Raveh Gonen's Blog - https://ravehgonen.wordpress.com/tag/mesh-slicing/
 
